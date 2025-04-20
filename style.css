@@ -64,4 +64,5 @@ video, img {
 
 .slogan img {
     width: 85%;
+    max-width: 896px;
 }
