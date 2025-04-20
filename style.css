@@ -46,3 +46,11 @@ footer {
 footer p {
     display: inline-block;
 }
+
+video, img {
+    margin-bottom: 2rem;
+}
+
+.slogan img {
+    width: 85%;
+}
