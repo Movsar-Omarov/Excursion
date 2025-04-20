@@ -48,6 +48,16 @@ footer p {
     display: inline-block;
 }
 
+.video {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+video {
+    width: 60%
+}
+
 video, img {
     margin-bottom: 2rem;
 }
